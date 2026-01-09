@@ -39,7 +39,7 @@ ENTER – Start game
 
 Close Window – Exit
 
-🧩 Project 2 — 8-Puzzle Game
+##🧩 Project 2 — 8-Puzzle Game
 
 File: eight_puzzle.py
 
