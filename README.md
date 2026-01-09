@@ -1,5 +1,5 @@
 # AI-LAB
-# 🧠 AI Lab – Interactive Search & Puzzle Games
+#  AI Lab – Interactive Search & Puzzle Games
 
 This repository contains **two interactive games developed using Python and Pygame** as part of an **Artificial Intelligence Lab**.
 
@@ -77,7 +77,7 @@ R – Restart puzzle
 
 ESC – Quit game
 
-🎯 Learning Objectives
+Learning Objectives:
 
 Understand how Breadth-First Search (BFS) finds optimal paths
 
